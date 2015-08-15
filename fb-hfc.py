@@ -41,7 +41,7 @@ print Fore.BLACK + Style.BRIGHT +  "t@@@@@@i  .;@@@@i  .@@@@f@@@C  ,G@@@@@C  @@@
 print "-----------------------------------------------------------------------------"
 print "Examples:"
 print "1. Generates related public profiles:"
-print "python fb-hfc.py -username <username>  -password '<password>' \n-query '<graph search query>' -output <output.txt>"
+print "python fb-hfc.py -amandamillshays <username>  -password '<password>' \n-query '<graph search query>' -output <output.txt>"
 print "2. Exctracting hidden friends:"
 print "python fb-hfc.py -username <username>  -password '<password>' \n-target <target> -profilesfile <file.txt> -output <output.txt>"
 print "-----------------------------------------------------------------------------"
